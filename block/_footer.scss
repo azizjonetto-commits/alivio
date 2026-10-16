@@ -1,0 +1,30 @@
+.footer
+{
+    display: flex;
+    align-items: start;
+    justify-content: start;
+    flex-direction: column;
+    gap: 60px;
+    padding: 95px 275px;
+    margin-top: 242px;
+    background-color: #245852;
+}
+
+.footer_title
+{
+font-style: normal;
+font-weight: 900;
+font-size: 40px;
+line-height: 55px;
+color: #FFFFFF;
+}
+
+.footer_text
+{
+font-family: 'Lato';
+font-style: normal;
+font-weight: 600;
+font-size: 25px;
+line-height: 30px;
+color: #FFFFFF;
+}

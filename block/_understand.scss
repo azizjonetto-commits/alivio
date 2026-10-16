@@ -1,0 +1,76 @@
+.understand {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  margin-top: 170px;
+}
+
+.understand_navbar {
+  display: flex;
+  align-items: start;
+  justify-content: center;
+  gap: 136px;
+}
+
+.understand_navtitle {
+  width: 584px;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 50px;
+  line-height: 157%;
+  color: #01996d;
+}
+
+.understand_navtext {
+  width: 671px;
+  height: 269px;
+  font-family: "Lato";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  color: #424242;
+  margin-top: 20px;
+}
+
+.understand_btm {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 95px;
+}
+
+.understand_div {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  gap: 55px;
+}
+
+.understand_title {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 30px;
+  line-height: 150%;
+  text-align: center;
+  color: #000000;
+}
+
+.understand_text {
+  width: 382px;
+  height: 150px;
+  font-family: "Lato";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 150%;
+  color: #424242;
+}
+
+.understand_div1 {
+  margin-top: 105px;
+}
+.understand_div2 {
+  margin-top: 250px;
+}
